@@ -1,0 +1,537 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.1341971606016159,
+        0.0008780360221862793,
+        0.135406032204628
+      ],
+      "min": [
+        -0.13661544024944305,
+        -1.0482878684997559,
+        -0.13540655374526978
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 109896,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.997427761554718,
+        0.9988386631011963
+      ],
+      "min": [
+        0.0018821065314114094,
+        0.00215610908344388
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 73264,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.997427761554718,
+        0.9988386631011963
+      ],
+      "min": [
+        0.0018821065314114094,
+        0.00215610908344388
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 146528,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.997427761554718,
+        0.9988386631011963
+      ],
+      "min": [
+        0.0018821065314114094,
+        0.00215610908344388
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 219792,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.997427761554718,
+        0.9988386631011963
+      ],
+      "min": [
+        0.0018821065314114094,
+        0.00215610908344388
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 38412,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 219792,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.1341971606016159,
+        0.0008780360221862793,
+        0.135406032204628
+      ],
+      "min": [
+        -0.13661544024944305,
+        -1.0482878684997559,
+        -0.13540655374526978
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 329688,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 146528,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 293056,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.997427761554718,
+        0.9988386631011963
+      ],
+      "min": [
+        0.0018821065314114094,
+        0.00215610908344388
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 366320,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.997427761554718,
+        0.9988386631011963
+      ],
+      "min": [
+        0.0018821065314114094,
+        0.00215610908344388
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 439584,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.997427761554718,
+        0.9988386631011963
+      ],
+      "min": [
+        0.0018821065314114094,
+        0.00215610908344388
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 512848,
+      "componentType": 5126,
+      "count": 9158,
+      "max": [
+        0.997427761554718,
+        0.9988386631011963
+      ],
+      "min": [
+        0.0018821065314114094,
+        0.00215610908344388
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 153648,
+      "componentType": 5125,
+      "count": 38412,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Mad_Lobster_Workshop (https://sketchfab.com/Mad_Lobster_Workshop)",
+      "license": "COPYRIGHT TO Mad_Lobster_Workshop",
+      "source": "https://sketchfab.com/3d-models/late-1800s-ceiling-lamps-type-a-f0ce3a5d41ca42039b690ff5e8684d83",
+      "title": "Late 1800s Ceiling Lamps Type A"
+    },
+    "generator": "Sketchfab-15.61.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 307296,
+      "name": "floatBufferViews",
+      "target": 34963,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 586112,
+      "byteOffset": 307296,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 439584,
+      "byteOffset": 893408,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 293056,
+      "byteOffset": 1332992,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "late_1800s_ceiling_lamps_type_a_data.bin",
+      "byteLength": 1626048
+    }
+  ],
+  "images": [
+    {
+      "uri": "late_1800s_ceiling_lamps_type_a_img0.png"
+    },
+    {
+      "uri": "late_1800s_ceiling_lamps_type_a_img1.png"
+    },
+    {
+      "uri": "late_1800s_ceiling_lamps_type_a_img2.png"
+    },
+    {
+      "uri": "late_1800s_ceiling_lamps_type_a_img3.png"
+    },
+    {
+      "uri": "late_1800s_ceiling_lamps_type_a_img4.png"
+    },
+    {
+      "uri": "late_1800s_ceiling_lamps_type_a_img5.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Late_1800s_Ceiling_Lamp_Type_A_Austere",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Late_1800s_Ceiling_Lamp_Type_A_Ornate",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11,
+            "TEXCOORD_1": 12,
+            "TEXCOORD_2": 13,
+            "TEXCOORD_3": 14
+          },
+          "indices": 15,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -0.1936388909816742,
+        0,
+        0,
+        1
+      ],
+      "name": "Late 1800s Ceiling Lamp Type A Austere_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.19428497552871704,
+        0,
+        0,
+        1
+      ],
+      "name": "Late 1800s Ceiling Lamp Type A Ornate_1"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_6"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}

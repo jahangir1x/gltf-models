@@ -1,0 +1,600 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 785,
+      "max": [
+        0.403344988822937,
+        -0.21341900527477264,
+        0.9948840141296387
+      ],
+      "min": [
+        -0.43398699164390564,
+        -1.1279150247573853,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 9420,
+      "componentType": 5126,
+      "count": 785,
+      "max": [
+        1,
+        1,
+        0.9999987483024597
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.9999997615814209
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 785,
+      "max": [
+        1,
+        0.9877963662147522,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 785,
+      "max": [
+        0.9999989867210388,
+        0.9601039886474609
+      ],
+      "min": [
+        9.999999974752427e-7,
+        9.999999974752427e-7
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3099,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18840,
+      "componentType": 5126,
+      "count": 1764,
+      "max": [
+        0.42767199873924255,
+        0.367561012506485,
+        1.1262999773025513
+      ],
+      "min": [
+        -0.42298799753189087,
+        -0.3752650022506714,
+        0.41975900530815125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 40008,
+      "componentType": 5126,
+      "count": 1764,
+      "max": [
+        0.9999845027923584,
+        0.9999932646751404,
+        0.9998459815979004
+      ],
+      "min": [
+        -0.9996838569641113,
+        -0.9999926686286926,
+        -0.9999503493309021
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 12560,
+      "componentType": 5126,
+      "count": 1764,
+      "max": [
+        0.9625572562217712,
+        0.9998970031738281,
+        0.9994088411331177,
+        1
+      ],
+      "min": [
+        -0.9701840281486511,
+        -0.9999997615814209,
+        -0.998915433883667,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6280,
+      "componentType": 5126,
+      "count": 1764,
+      "max": [
+        0.9999989867210388,
+        0.776419997215271
+      ],
+      "min": [
+        9.999999974752427e-7,
+        9.999999974752427e-7
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12396,
+      "componentType": 5125,
+      "count": 9804,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 61176,
+      "componentType": 5126,
+      "count": 367,
+      "max": [
+        0.12522900104522705,
+        0.1869180053472519,
+        0.1981469988822937
+      ],
+      "min": [
+        -0.14088299870491028,
+        -0.1752600073814392,
+        -0.18094700574874878
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 65580,
+      "componentType": 5126,
+      "count": 367,
+      "max": [
+        0.9996811151504517,
+        0.9973229765892029,
+        0.9980422258377075
+      ],
+      "min": [
+        -0.9961772561073303,
+        -0.9995467662811279,
+        -0.9898141026496887
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 40784,
+      "componentType": 5126,
+      "count": 367,
+      "max": [
+        0.9999570846557617,
+        0.7940312623977661,
+        0.9977664351463318,
+        1
+      ],
+      "min": [
+        -0.9987170100212097,
+        -0.8297290802001953,
+        -0.9944717288017273,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 20392,
+      "componentType": 5126,
+      "count": 367,
+      "max": [
+        0.5130249857902527,
+        0.9999989867210388
+      ],
+      "min": [
+        9.999999974752427e-7,
+        9.999999974752427e-7
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 51612,
+      "componentType": 5125,
+      "count": 1896,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "fuchs&bär (https://sketchfab.com/fuchsundbaer)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/mid-century-design-armchair-oneseater-cushion-18e74ffdfbc14b4aaac5fb90a3942e9e",
+      "title": "Mid century design armchair oneseater cushion"
+    },
+    "generator": "Sketchfab-15.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 59196,
+      "name": "floatBufferViews",
+      "target": 34963,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23328,
+      "byteOffset": 59196,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 69984,
+      "byteOffset": 82524,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 46656,
+      "byteOffset": 152508,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_data.bin",
+      "byteLength": 199164
+    }
+  ],
+  "images": [
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img0.jpg"
+    },
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img1.png"
+    },
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img2.png"
+    },
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img3.jpg"
+    },
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img4.png"
+    },
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img5.png"
+    },
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img6.jpg"
+    },
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img7.png"
+    },
+    {
+      "uri": "mid_century_design_armchair_oneseater_cushion_img8.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "DekoKissen_Sessel_1001",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Polster2_1001",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Sessel_1001",
+      "normalTexture": {
+        "index": 8
+      },
+      "occlusionTexture": {
+        "index": 7
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicRoughnessTexture": {
+          "index": 7
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "defaultMaterial",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4,
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        -4.371139006309477e-8,
+        0.999999999999999,
+        0,
+        0,
+        -0.999999999999999,
+        -4.371139006309477e-8,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        -0.000016,
+        -100,
+        0,
+        0,
+        100,
+        -0.000016,
+        0,
+        0,
+        -0.301455,
+        -66.497513,
+        1
+      ],
+      "name": "Sessel01_LoPoly"
+    },
+    {
+      "mesh": 0,
+      "name": "defaultMaterial"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        -0.000016,
+        -100,
+        0,
+        0,
+        100,
+        -0.000016,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sitzkissen_Sessel_HIghpolyV2.002"
+    },
+    {
+      "mesh": 1,
+      "name": "defaultMaterial"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        99.993111,
+        -0.951952,
+        0.685925,
+        0,
+        0.907044,
+        99.798668,
+        6.276779,
+        0,
+        -0.744297,
+        -6.270126,
+        99.800453,
+        0,
+        3.043818,
+        73.824524,
+        -23.635777,
+        1
+      ],
+      "name": "DekoKissen_sessel_LowPolyClean"
+    },
+    {
+      "mesh": 2,
+      "name": "defaultMaterial"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}

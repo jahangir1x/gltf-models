@@ -1,0 +1,206 @@
+[
+    {
+        "description": "A stylish and modern chair with a sheen finish, perfect for contemporary interiors.",
+        "name": "Sheen Chair",
+        "model_path": "models/SheenChair/SheenChair.glb",
+        "image_path": "models/SheenChair/pic.png"
+    },
+    {
+        "description": "Glamorous velvet sofa that adds a touch of luxury and sophistication to any living space.",
+        "name": "Glam Velvet Sofa",
+        "model_path": "models/GlamVelvetSofa/GlamVelvetSofa.glb",
+        "image_path": "models/GlamVelvetSofa/pic.png"
+    },
+    {
+        "description": "A low-poly model of a Viking drakkar long boat, perfect for historical and adventurous scenes.",
+        "name": "Viking Drakkar Long Boat",
+        "model_path": "models/viking_drakkar_long_boat_low-poly/viking_drakkar_long_boat_low-poly.glb",
+        "image_path": "models/viking_drakkar_long_boat_low-poly/pic.png"
+    },
+    {
+        "description": "A comfortable and stylish armchair for a cozy corner in your home.",
+        "name": "Arm Chair",
+        "model_path": "models/arm_chair/arm_chair.glb",
+        "image_path": "models/arm_chair/pic.png"
+    },
+    {
+        "description": "A detailed flight helmet model, perfect for aviation enthusiasts and virtual reality experiences.",
+        "name": "Flight Helmet",
+        "model_path": "models/FlightHelmet/FlightHelmet.glb",
+        "image_path": "models/FlightHelmet/pic.png"
+    },
+    {
+        "description": "A classic mantel clock with intricate details, a perfect addition to traditional interiors.",
+        "name": "Mantel Clock",
+        "model_path": "models/mantel_clock_01_4k/mantel_clock_01_4k.glb",
+        "image_path": "models/mantel_clock_01_4k/pic.png"
+    },
+    {
+        "description": "A modern and sleek 3D model of a coffee machine, ideal for showcasing kitchen designs.",
+        "name": "Free 3D Model Coffee Machine",
+        "model_path": "models/free_3d_model_coffe_machine/free_3d_model_coffe_machine.glb",
+        "image_path": "models/free_3d_model_coffe_machine/pic.png"
+    },
+    {
+        "description": "An elegant Gothic bed with intricate details, perfect for luxurious bedrooms.",
+        "name": "Gothic Bed",
+        "model_path": "models/GothicBed_01_4k/GothicBed_01_4k.glb",
+        "image_path": "models/GothicBed_01_4k/pic.png"
+    },
+    {
+        "description": "A delicate teacup with diffuse transmission material, adding charm to your virtual scenes.",
+        "name": "Diffuse Transmission Teacup",
+        "model_path": "models/DiffuseTransmissionTeacup/DiffuseTransmissionTeacup.glb",
+        "image_path": "models/DiffuseTransmissionTeacup/pic.png"
+    },
+    {
+        "description": "A beautiful stained glass lamp that adds a touch of artistry to any room.",
+        "name": "Stained Glass Lamp",
+        "model_path": "models/StainedGlassLamp/StainedGlassLamp.glb",
+        "image_path": "models/StainedGlassLamp/pic.png"
+    },
+    {
+        "description": "A timeless classic sofa with intricate design, perfect for traditional living rooms.",
+        "name": "Classic Sofa",
+        "model_path": "models/classic_sofa/classic_sofa.glb",
+        "image_path": "models/classic_sofa/pic.png"
+    },
+    {
+        "description": "A detailed model of a majestic sailing ship, great for maritime and historical scenes.",
+        "name": "Sailing Ship",
+        "model_path": "models/ship_ss/ship_ss.glb",
+        "image_path": "models/ship_ss/pic.png"
+    },
+    {
+        "description": "A modern plywood coffee table, adding a minimalist touch to contemporary interiors.",
+        "name": "Plywood Coffee Table",
+        "model_path": "models/plywood_coffee_table/plywood_coffee_table.glb",
+        "image_path": "models/plywood_coffee_table/pic.png"
+    },
+    {
+        "description": "An exquisite 4K model of a tea set, perfect for elegant afternoon tea scenes.",
+        "name": "Tea Set",
+        "model_path": "models/tea_set_01_4k/tea_set_01_4k.glb",
+        "image_path": "models/tea_set_01_4k/pic.png"
+    },
+    {
+        "description": "A vintage-style alarm clock with intricate details, adding character to any space.",
+        "name": "Alarm Clock",
+        "model_path": "models/alarm_clock_01_4k/alarm_clock_01_4k.glb",
+        "image_path": "models/alarm_clock_01_4k/pic.png"
+    },
+    {
+        "description": "A regal marble bust with high-resolution details, perfect for art-inspired environments.",
+        "name": "Marble Bust",
+        "model_path": "models/marble_bust_01_8k/marble_bust_01_8k.glb",
+        "image_path": "models/marble_bust_01_8k/pic.png"
+    },
+    {
+        "description": "A futuristic buster drone model, ideal for showcasing advanced technology.",
+        "name": "Buster Drone",
+        "model_path": "models/buster_drone/buster_drone.glb",
+        "image_path": "models/buster_drone/pic.png"
+    },
+    {
+        "description": "A small wooden table with a modern design, suitable for various interior styles.",
+        "name": "Small Wooden Table",
+        "model_path": "models/small_wooden_table_01_4k/small_wooden_table_01_4k.glb",
+        "image_path": "models/small_wooden_table_01_4k/pic.png"
+    },
+    {
+        "description": "A mid-century design armchair with a comfortable cushion, perfect for retro-themed spaces.",
+        "name": "Mid-Century Design Armchair",
+        "model_path": "models/mid_century_design_armchair_oneseater_cushion/mid_century_design_armchair_oneseater_cushion.glb",
+        "image_path": "models/mid_century_design_armchair_oneseater_cushion/pic.png"
+    },
+    {
+        "description": "An elegant 4K chandelier with an intricate design, suitable for luxurious interiors.",
+        "name": "Chandelier 03",
+        "model_path": "models/Chandelier_03_4k/Chandelier_03_4k.glb",
+        "image_path": "models/Chandelier_03_4k/pic.png"
+    },
+    {
+        "description": "An antique camera model, perfect for vintage and photography-themed scenes.",
+        "name": "Antique Camera",
+        "model_path": "models/AntiqueCamera/AntiqueCamera.glb",
+        "image_path": "models/AntiqueCamera/pic.png"
+    },
+    {
+        "description": "A stylish 4K model of a jug, suitable for kitchen and dining room settings.",
+        "name": "Jug 01",
+        "model_path": "models/jug_01_4k/jug_01_4k.glb",
+        "image_path": "models/jug_01_4k/pic.png"
+    },
+    {
+        "description": "A luxurious 4K chandelier with an intricate design, perfect for grand interiors.",
+        "name": "Chandelier 01",
+        "model_path": "models/Chandelier_01_4k/Chandelier_01_4k.glb",
+        "image_path": "models/Chandelier_01_4k/pic.png"
+    },
+    {
+        "description": "A low-poly Victorian-style sofa, great for adding vintage charm to virtual spaces.",
+        "name": "Low-Poly Victorian Sofa",
+        "model_path": "models/lowpoly_victorian_sofa/lowpoly_victorian_sofa.glb",
+        "image_path": "models/lowpoly_victorian_sofa/pic.png"
+    },
+    {
+        "description": "An iridescent lamp model, adding a touch of modern artistry to any room.",
+        "name": "Iridescence Lamp",
+        "model_path": "models/IridescenceLamp/IridescenceLamp.glb",
+        "image_path": "models/IridescenceLamp/pic.png"
+    },
+    {
+        "description": "A 4K model of a classic school chair, suitable for educational and classroom settings.",
+        "name": "School Chair 01",
+        "model_path": "models/SchoolChair_01_4k/SchoolChair_01_4k.glb",
+        "image_path": "models/SchoolChair_01_4k/pic.png"
+    },
+    {
+        "description": "A nostalgic boombox model, perfect for scenes set in the 80s or music-themed environments.",
+        "name": "BoomBox",
+        "model_path": "models/BoomBox/BoomBox.glb",
+        "image_path": "models/BoomBox/pic.png"
+    },
+    {
+        "description": "A majestic 8K horse statue, perfect for adding a touch of grandeur to virtual landscapes.",
+        "name": "Horse Statue 01",
+        "model_path": "models/horse_statue_01_8k/horse_statue_01_8k.glb",
+        "image_path": "models/horse_statue_01_8k/pic.png"
+    },
+    {
+        "description": "A detailed and realistic 3D model of a boat, suitable for marine and waterfront scenes.",
+        "name": "Boat UU",
+        "model_path": "models/boat_uu/boat_uu.glb",
+        "image_path": "models/boat_uu/pic.png"
+    },
+    {
+        "description": "An ornate Gothic commode with intricate details, perfect for vintage-inspired interiors.",
+        "name": "Gothic Commode 01",
+        "model_path": "models/GothicCommode_01_4k/GothicCommode_01_4k.glb",
+        "image_path": "models/GothicCommode_01_4k/pic.png"
+    },
+    {
+        "description": "A collection of late 1800s ceiling lamps type A, adding historical charm to virtual spaces.",
+        "name": "Late 1800s Ceiling Lamps Type A",
+        "model_path": "models/late_1800s_ceiling_lamps_type_a/late_1800s_ceiling_lamps_type_a.glb",
+        "image_path": "models/late_1800s_ceiling_lamps_type_a/pic.png"
+    },
+    {
+        "description": "A unique plant model with diffuse transmission material, suitable for botanical and natural scenes.",
+        "name": "Diffuse Transmission Plant",
+        "model_path": "models/DiffuseTransmissionPlant/DiffuseTransmissionPlant.glb",
+        "image_path": "models/DiffuseTransmissionPlant/pic.png"
+    },
+    {
+        "description": "A 4K model of a Gothic cabinet, perfect for adding antique charm to virtual interiors.",
+        "name": "Gothic Cabinet 01",
+        "model_path": "models/GothicCabinet_01_4k/GothicCabinet_01_4k.glb",
+        "image_path": "models/GothicCabinet_01_4k/pic.png"
+    },
+    {
+        "description": "A punctual lamp with sophisticated design, suitable for modern and elegant lighting solutions.",
+        "name": "Lights Punctual Lamp",
+        "model_path": "models/LightsPunctualLamp/LightsPunctualLamp.glb",
+        "image_path": "models/LightsPunctualLamp/pic.png"
+    }
+]

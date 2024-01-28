@@ -1,0 +1,528 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 9787,
+      "max": [
+        52.80000305175781,
+        24.000423431396484,
+        36.037193298339844
+      ],
+      "min": [
+        -52.79999923706055,
+        -21.999956130981445,
+        -0.020868999883532524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 117444,
+      "componentType": 5126,
+      "count": 9787,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 9787,
+      "max": [
+        1,
+        0.0038113000337034464,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.675836443901062,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 9787,
+      "max": [
+        0.9989460110664368,
+        0.9911090135574341
+      ],
+      "min": [
+        0.000990999978967011,
+        0.001053999993018806
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 38964,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 234888,
+      "componentType": 5126,
+      "count": 9706,
+      "max": [
+        50.800018310546875,
+        23.999948501586914,
+        36.037193298339844
+      ],
+      "min": [
+        -50.800018310546875,
+        -17.99996566772461,
+        -0.020868999883532524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 351360,
+      "componentType": 5126,
+      "count": 9706,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 156592,
+      "componentType": 5126,
+      "count": 9706,
+      "max": [
+        1,
+        0.0038092704489827156,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.0038092704489827156,
+        -0.6758407950401306,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 78296,
+      "componentType": 5126,
+      "count": 9706,
+      "max": [
+        0.998894989490509,
+        0.9911090135574341
+      ],
+      "min": [
+        0.0009950000094249845,
+        0.001053999993018806
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 155856,
+      "componentType": 5125,
+      "count": 38772,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 467832,
+      "componentType": 5126,
+      "count": 9868,
+      "max": [
+        50.800018310546875,
+        21.999942779541016,
+        36.037193298339844
+      ],
+      "min": [
+        -50.800018310546875,
+        -19.99996566772461,
+        -0.020868999883532524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 586248,
+      "componentType": 5126,
+      "count": 9868,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 311888,
+      "componentType": 5126,
+      "count": 9868,
+      "max": [
+        1,
+        0.0038092704489827156,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.0038101905956864357,
+        -0.6758411526679993,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 155944,
+      "componentType": 5126,
+      "count": 9868,
+      "max": [
+        0.998881995677948,
+        0.9911090135574341
+      ],
+      "min": [
+        0.0009929999941959977,
+        0.001053999993018806
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 310944,
+      "componentType": 5125,
+      "count": 39120,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 704664,
+      "componentType": 5126,
+      "count": 1517,
+      "max": [
+        50.800018310546875,
+        21.999954223632812,
+        36.037193298339844
+      ],
+      "min": [
+        -50.800018310546875,
+        3.9999849796295166,
+        -0.020868999883532524
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 722868,
+      "componentType": 5126,
+      "count": 1517,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 469776,
+      "componentType": 5126,
+      "count": 1517,
+      "max": [
+        1,
+        0.003807607339695096,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -0.0038076655473560095,
+        -0.6743482947349548,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 234888,
+      "componentType": 5126,
+      "count": 1517,
+      "max": [
+        0.995527982711792,
+        0.990572988986969
+      ],
+      "min": [
+        0.0010349999647587538,
+        0.001053999993018806
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 467424,
+      "componentType": 5125,
+      "count": 6024,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "biserborislawow (https://sketchfab.com/biserborislawow)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/plywood-coffee-table-5db1658f4f1e4c20afe4828619fe482f",
+      "title": "Plywood Coffee Table"
+    },
+    "generator": "Sketchfab-15.61.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 491520,
+      "name": "floatBufferViews",
+      "target": 34963,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 247024,
+      "byteOffset": 491520,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 741072,
+      "byteOffset": 738544,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 494048,
+      "byteOffset": 1479616,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "plywood_coffee_table_data.bin",
+      "byteLength": 1973664
+    }
+  ],
+  "images": [
+    {
+      "uri": "plywood_coffee_table_img0.jpg"
+    },
+    {
+      "uri": "plywood_coffee_table_img1.png"
+    },
+    {
+      "uri": "plywood_coffee_table_img2.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Plywood",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "name": "ply coffee table.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_5"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
