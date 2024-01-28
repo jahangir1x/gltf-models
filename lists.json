@@ -3,13 +3,23 @@
         "description": "A stylish and modern chair with a sheen finish, perfect for contemporary interiors.",
         "name": "Sheen Chair",
         "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/SheenChair/SheenChair.glb",
-        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/SheenChair/pic.png"
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/SheenChair/pic.png",
+        "demo_image_paths": [
+            "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/SheenChair/demo1.png",
+            "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/SheenChair/demo2.png",
+            "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/SheenChair/demo3.png"
+        ]
     },
     {
         "description": "Glamorous velvet sofa that adds a touch of luxury and sophistication to any living space.",
         "name": "Glam Velvet Sofa",
         "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GlamVelvetSofa/GlamVelvetSofa.glb",
-        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GlamVelvetSofa/pic.png"
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GlamVelvetSofa/pic.png",
+        "demo_image_paths": [
+            "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GlamVelvetSofa/demo1.png",
+            "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GlamVelvetSofa/demo2.png",
+            "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GlamVelvetSofa/demo3.png"
+        ]
     },
     {
         "description": "A low-poly model of a Viking drakkar long boat, perfect for historical and adventurous scenes.",
