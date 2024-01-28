@@ -2,37 +2,37 @@
     {
         "description": "A modern and sleek 3D model of a coffee machine, ideal for showcasing kitchen designs.",
         "name": "Free 3D Model Coffee Machine",
-        "model_path": "models/free_3d_model_coffe_machine/free_3d_model_coffe_machine.glb",
-        "image_path": "models/free_3d_model_coffe_machine/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/free_3d_model_coffe_machine/free_3d_model_coffe_machine.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/free_3d_model_coffe_machine/pic.png"
     },
     {
         "description": "An elegant Gothic bed with intricate details, perfect for luxurious bedrooms.",
         "name": "Gothic Bed",
-        "model_path": "models/GothicBed_01_4k/GothicBed_01_4k.glb",
-        "image_path": "models/GothicBed_01_4k/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GothicBed_01_4k/GothicBed_01_4k.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GothicBed_01_4k/pic.png"
     },
     {
         "description": "A delicate teacup with diffuse transmission material, adding charm to your virtual scenes.",
         "name": "Diffuse Transmission Teacup",
-        "model_path": "models/DiffuseTransmissionTeacup/DiffuseTransmissionTeacup.glb",
-        "image_path": "models/DiffuseTransmissionTeacup/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/DiffuseTransmissionTeacup/DiffuseTransmissionTeacup.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/DiffuseTransmissionTeacup/pic.png"
     },
     {
         "description": "A beautiful stained glass lamp that adds a touch of artistry to any room.",
         "name": "Stained Glass Lamp",
-        "model_path": "models/StainedGlassLamp/StainedGlassLamp.glb",
-        "image_path": "models/StainedGlassLamp/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/StainedGlassLamp/StainedGlassLamp.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/StainedGlassLamp/pic.png"
     },
     {
         "description": "A timeless classic sofa with intricate design, perfect for traditional living rooms.",
         "name": "Classic Sofa",
-        "model_path": "models/classic_sofa/classic_sofa.glb",
-        "image_path": "models/classic_sofa/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/classic_sofa/classic_sofa.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/classic_sofa/pic.png"
     },
     {
         "description": "A detailed model of a majestic sailing ship, great for maritime and historical scenes.",
         "name": "Sailing Ship",
-        "model_path": "models/ship_ss/ship_ss.glb",
-        "image_path": "models/ship_ss/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/ship_ss/ship_ss.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/ship_ss/pic.png"
     }
 ]

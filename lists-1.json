@@ -2,37 +2,37 @@
     {
         "description": "A stylish and modern chair with a sheen finish, perfect for contemporary interiors.",
         "name": "Sheen Chair",
-        "model_path": "models/SheenChair/SheenChair.glb",
-        "image_path": "models/SheenChair/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/SheenChair/SheenChair.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/SheenChair/pic.png"
     },
     {
         "description": "Glamorous velvet sofa that adds a touch of luxury and sophistication to any living space.",
         "name": "Glam Velvet Sofa",
-        "model_path": "models/GlamVelvetSofa/GlamVelvetSofa.glb",
-        "image_path": "models/GlamVelvetSofa/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GlamVelvetSofa/GlamVelvetSofa.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/GlamVelvetSofa/pic.png"
     },
     {
         "description": "A low-poly model of a Viking drakkar long boat, perfect for historical and adventurous scenes.",
         "name": "Viking Drakkar Long Boat",
-        "model_path": "models/viking_drakkar_long_boat_low-poly/viking_drakkar_long_boat_low-poly.glb",
-        "image_path": "models/viking_drakkar_long_boat_low-poly/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/viking_drakkar_long_boat_low-poly/viking_drakkar_long_boat_low-poly.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/viking_drakkar_long_boat_low-poly/pic.png"
     },
     {
         "description": "A comfortable and stylish armchair for a cozy corner in your home.",
         "name": "Arm Chair",
-        "model_path": "models/arm_chair/arm_chair.glb",
-        "image_path": "models/arm_chair/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/arm_chair/arm_chair.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/arm_chair/pic.png"
     },
     {
         "description": "A detailed flight helmet model, perfect for aviation enthusiasts and virtual reality experiences.",
         "name": "Flight Helmet",
-        "model_path": "models/FlightHelmet/FlightHelmet.glb",
-        "image_path": "models/FlightHelmet/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/FlightHelmet/FlightHelmet.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/FlightHelmet/pic.png"
     },
     {
         "description": "A classic mantel clock with intricate details, a perfect addition to traditional interiors.",
         "name": "Mantel Clock",
-        "model_path": "models/mantel_clock_01_4k/mantel_clock_01_4k.glb",
-        "image_path": "models/mantel_clock_01_4k/pic.png"
+        "model_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/mantel_clock_01_4k/mantel_clock_01_4k.glb",
+        "image_path": "https://media.githubusercontent.com/media/jahangir1x/gltf-models/main/models/mantel_clock_01_4k/pic.png"
     }
 ]
